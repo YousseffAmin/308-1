@@ -1,0 +1,21 @@
+:root {
+    --main-bg: lightblue; 
+    --main-bg: lightblue; 
+    --main-bg: lightblue; 
+    --top-menu-bg: lightgray; 
+  }
+  .flex-around {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+  }
+  
+  .flex-ctr {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+  }
+  
+  
